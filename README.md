@@ -1,6 +1,6 @@
 # První čtení
 
-Když jsme s našim synem cvičili čtení z čítanky (Slabikář s kocourem Tomem), velmi rychle jsme zjistili, že si kraťounčké texty zapamatuje. Navíc texty v čítance jsou cokoliv, jen ne zábavné. Proto jsem se rozhodl zkusit napsat jednoduché příběhy s využitím aktuálně probraných písmenek.
+Když jsme s našim synem cvičili čtení z čítanky (Slabikář s kocourem Tomem), velmi rychle jsme zjistili, že si kraťounčké texty zapamatuje. Navíc texty v čítance nejsou moc zábavné. Proto jsem se rozhodl zkusit napsat jednoduché příběhy s využitím aktuálně probraných písmenek.
 
 ![Slabikář s kocourem Tomem](https://github.com/jkubos/prvni-cteni/raw/master/slabikar.png)
 
