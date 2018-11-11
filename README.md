@@ -16,4 +16,4 @@ Texty jsou pojmenovány pomocí všech písmen, která obsahují. Texty uvolňuj
 
 Doplňky:
 
-1. Slova a slabiky s aeiou-mlsp <a href='https://github.com/jkubos/prvni-cteni/raw/master/tabulka-aeiou-mlsp.pdf' download>pdf</a> <a href='https://github.com/jkubos/prvni-cteni/raw/master/tabulka-aeiou-mlsp.odt' download>ods</a>
+1. Slova a slabiky s aeiou-mlsp <a href='https://github.com/jkubos/prvni-cteni/raw/master/tabulka-aeiou-mlsp.pdf' download>pdf</a> <a href='https://github.com/jkubos/prvni-cteni/raw/master/tabulka-aeiou-mlsp.ods' download>ods</a>
