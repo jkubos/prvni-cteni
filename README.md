@@ -8,6 +8,12 @@ Aby texty dávaly alespoň trochu smysl, musel jsem použít delší (tří a č
 
 Texty jsou pojmenovány pomocí všech písmen, která obsahují. Texty uvolňuji pod licencí [Apache 2.0](https://cs.wikipedia.org/wiki/Apache_Licence). Můžete je tedy libovolně upravovat a šířit.
 
-1. aeiouy-jlmnpstvz [txt](https://github.com/jkubos/prvni-cteni/blob/master/aeiouy-jlmnpstvz.txt) [pdf](https://github.com/jkubos/prvni-cteni/blob/master/aeiouy-jlmnpstvz.pdf) [odt](https://github.com/jkubos/prvni-cteni/blob/master/aeiouy-jlmnpstvz.odt)
+1. aeiou-mlsp [txt](https://github.com/jkubos/prvni-cteni/blob/master/aeiou-mlsp.txt) [pdf](https://github.com/jkubos/prvni-cteni/blob/master/aeiou-mlsp.pdf) [odt](https://github.com/jkubos/prvni-cteni/blob/master/aeiou-mlsp.odt)
 
-2. aeiouy-djklmnpsštvz [txt](https://github.com/jkubos/prvni-cteni/blob/master/aeiouy-djklmnpsštvz.txt) [pdf](https://github.com/jkubos/prvni-cteni/blob/master/aeiouy-djklmnpsštvz.pdf) [odt](https://github.com/jkubos/prvni-cteni/blob/master/aeiouy-djklmnpsštvz.odt)
+2. aeiouy-jlmnpstvz [txt](https://github.com/jkubos/prvni-cteni/blob/master/aeiouy-jlmnpstvz.txt) [pdf](https://github.com/jkubos/prvni-cteni/blob/master/aeiouy-jlmnpstvz.pdf) [odt](https://github.com/jkubos/prvni-cteni/blob/master/aeiouy-jlmnpstvz.odt)
+
+3. aeiouy-djklmnpsštvz [txt](https://github.com/jkubos/prvni-cteni/blob/master/aeiouy-djklmnpsštvz.txt) [pdf](https://github.com/jkubos/prvni-cteni/blob/master/aeiouy-djklmnpsštvz.pdf) [odt](https://github.com/jkubos/prvni-cteni/blob/master/aeiouy-djklmnpsštvz.odt)
+
+Doplňky:
+
+1. Slova a slabiky s aeiou-mlsp [pdf](https://github.com/jkubos/prvni-cteni/blob/master/tabulka-aeiou-mlsp.pdf) [ods](https://github.com/jkubos/prvni-cteni/blob/master/tabulka-aeiou-mlsp.odt)
